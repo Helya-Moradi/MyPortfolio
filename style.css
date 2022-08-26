@@ -383,6 +383,7 @@ body section {
     color: #535385;
     background-color: #abaacc;
 }
+
 .color13 {
     color: #385076;
     background-color: #95a3b3;
@@ -392,9 +393,15 @@ body section {
     color: #39ccdc;
     background-color: #d2eff4;
 }
+
 .color15 {
     color: #535385;
     background-color: #abaacc;
+}
+
+.color16 {
+    color: #5c84e8;
+    background-color: #a8c6e3;
 }
 
 .links:hover .section-overlay {
