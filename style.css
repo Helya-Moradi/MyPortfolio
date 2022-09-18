@@ -403,6 +403,10 @@ body section {
     color: #5c84e8;
     background-color: #a8c6e3;
 }
+.color17 {
+    color: #ffffff;
+    background-color: #dcdcdcaf;
+}
 
 .links:hover .section-overlay {
     bottom: 0;
