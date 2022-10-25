@@ -1,4 +1,3 @@
-
 .links {
     height: 19.3vw;
     position: relative;
@@ -48,3 +47,20 @@
     background-color: unset;
 }
 
+
+@media screen and (max-width:768px) {
+    .links {
+        height: 18.8vw;
+    }
+}
+
+
+@media screen and (max-width:598px) {
+    .links {
+        height: 35vw;
+    }
+
+    .section-overlay span {
+        font-size: 15px;
+    }
+}

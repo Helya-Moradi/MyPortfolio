@@ -8,6 +8,7 @@
 body {
     background-color: #fff9fb;
     position: relative;
+    min-height: 90.5vh;
 }
 
 .navigation {
@@ -451,10 +452,6 @@ body section {
         margin: 30px 50px;
     }
 
-    .links {
-        height: 18.8vw;
-    }
-
     .header {
         margin: 30px 40px;
         font-size: 2vw;
@@ -609,10 +606,6 @@ body section {
         margin: 30px 40px;
     }
 
-    .links {
-        height: 35vw;
-    }
-
     .header {
         margin: 20px 30px;
         font-size: 2.7vw;
@@ -625,9 +618,5 @@ body section {
     .projects {
         grid-template-columns: 1fr;
         gap: 25px;
-    }
-
-    .section-overlay span {
-        font-size: 15px;
     }
 }
