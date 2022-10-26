@@ -13,3 +13,5 @@ list.forEach((item, index) => item.addEventListener("click", () => {
     tabs[index].classList.add("active");
     list[index].classList.add("active");
 }));
+console.log(document.body.scrollHeight);
+document.body.minHeight=document.body.scrollHeight;
