@@ -284,6 +284,12 @@ body section {
     gap: 50px;
 }
 
+.projects-splitter {
+    margin: 50px;
+    font-weight: normal;
+    color: #434343;
+}
+
 .footer {
     width: 100%;
     /* height: 60px; */
